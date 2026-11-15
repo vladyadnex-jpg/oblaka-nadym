@@ -1,0 +1,1 @@
+Сайт кофейни «Облака» — независимая статическая версия для Cloudflare Workers.\nЗагрузите в корень GitHub-репозитория файл wrangler.jsonc и папку public с index.html внутри.\nВ Cloudflare: Root directory = /; Build command оставить пустым; Deploy command = npx wrangler deploy.\nПеред публичным запуском подтвердите часы работы, телефон и адрес у владельца кафе.\n
